@@ -8,49 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:589943212191:android:17579e2974fa450200faaa",
-        "android_client_info": {
-          "package_name": "com.example.careerguide"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "589943212191-puqrvu4a9dij47ss6vof358que6gi3q1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.careerguide",
-            "certificate_hash": "dce71803d40cbeb69bd8b39d714e94140e4db9b4"
-          }
-        },
-        {
-          "client_id": "589943212191-r7g9v2uh7mictjl3obvqag83ufd4hjs0.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBwX2FsPd1sVpt7QkPL4oJfH-qIfoSgbCg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "589943212191-r7g9v2uh7mictjl3obvqag83ufd4hjs0.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:589943212191:android:13c2e8365e84b28700faaa",
+        "mobilesdk_app_id": "1:589943212191:android:3add6474439b04bf00faaa",
         "android_client_info": {
           "package_name": "com.example.firebase"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "589943212191-lb3m020sqk6csnhd3fqclhs4nt24kaql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "ee95ffa211fd21b7f2c6add260a205ea5a716aea"
+          }
+        },
         {
           "client_id": "589943212191-r7g9v2uh7mictjl3obvqag83ufd4hjs0.apps.googleusercontent.com",
           "client_type": 3
