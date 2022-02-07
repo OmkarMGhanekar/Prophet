@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="register_button">Don\'t have an account? <b>Register Here</b></string>
+
+</resources>
